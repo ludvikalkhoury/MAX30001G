@@ -1,0 +1,4 @@
+MAX30001G	KEYWORD1
+readECGRaw	KEYWORD2
+computeHeartRate	KEYWORD2
+computeRespRate	KEYWORD2
